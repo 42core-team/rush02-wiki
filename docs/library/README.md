@@ -332,9 +332,6 @@ typedef enum e_unit_type
 {
 	UNIT_WARRIOR = 1,           // Combat unit
 	UNIT_WORKER = 2,            // Resource-gathering unit
-	UNIT_TANK = 3,				// Big chonk
-	UNIT_ARCHER = 4,			// Long distance pew pew
-	UNIT_HEALER = 5				// Well.. he be healing
 } t_unit_type;
 ```
 
